@@ -14,20 +14,6 @@ The **Personal Fitness Tracker** is a web-based application that predicts **calo
 
 ---
 
-### **📂 Project Structure**  
-```
-📁 Personal-Fitness-Tracker/
-│-- 📜 app.py                    # Main Python script (Streamlit app)
-│-- 📜 requirements.txt           # List of dependencies
-│-- 📜 README.md                  # Project documentation (this file)
-│-- 📜 calories.csv               # Dataset for calorie tracking
-│-- 📜 exercise.csv               # Dataset for exercise details
-│-- 📁 assets/                     # Folder for images (screenshots)
-│-- 📁 models/                     # Folder for saved ML models (if applicable)
-```
-
----
-
 ### **🔧 Technologies Used**  
 - **Python 3.x**  
 - **Streamlit** (for web UI)  
@@ -36,23 +22,6 @@ The **Personal Fitness Tracker** is a web-based application that predicts **calo
 - **Matplotlib & Seaborn** (for data visualization)  
 
 ---
-
-### **📥 Installation & Setup**  
-#### **1️⃣ Clone the Repository**  
-```bash
-git clone https://github.com/your-username/Personal-Fitness-Tracker.git
-cd Personal-Fitness-Tracker
-```
-
-#### **2️⃣ Install Dependencies**  
-```bash
-pip install -r requirements.txt
-```
-
-#### **3️⃣ Run the Application**  
-```bash
-streamlit run app.py
-```
 
 ### **📄 License**  
 This project is **open-source** and available under the **MIT License**. Feel free to contribute!  
